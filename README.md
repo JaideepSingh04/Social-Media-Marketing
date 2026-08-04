@@ -1,19 +1,9 @@
-# Social Media Marketing Portfolio
+## Portfolio Assets
 
-## Instagram Profile
-![Profile](github1.jpeg)
+📁 Google Drive Portfolio:https://drive.google.com/drive/folders/1oSJQw55YeVQ1fy6qjGieD1Kqx3UYL2ua/......
 
-## Content Feed
-![Feed](github2.jpeg)
-
-## Promotional Video 1
-https://github.com/user-attachments/...
-
-Luxury menswear promotional campaign created using AI tools and video editing.
-
----
-
-## Promotional Video 2
-https://github.com/user-attachments/...
-
-Brand awareness campaign focusing on premium aesthetics and storytelling.
+Includes:
+- Promotional Videos
+- Instagram Content
+- AI Advertisement and content Creatives
+- Product Image Enhancement Samples
